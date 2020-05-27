@@ -1,4 +1,4 @@
- - hosts:
+ - hosts: HW7nodes
    gather_facts: no
    become: true
    tasks:
